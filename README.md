@@ -38,7 +38,9 @@ Passionate developer with a strong interest in building technology that solves r
 ![HTML](https://img.shields.io/badge/HTML5-0d1117?style=flat&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS3-0d1117?style=flat&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat&logo=typescript&logoColor=3178C6)
 ![React](https://img.shields.io/badge/React-0d1117?style=flat&logo=react&logoColor=61DAFB)
+![TanStack%20Query](https://img.shields.io/badge/TanStack%20Query-0d1117?style=flat&logo=reactquery&logoColor=FF4154)
 
 **Database & Storage**
 
